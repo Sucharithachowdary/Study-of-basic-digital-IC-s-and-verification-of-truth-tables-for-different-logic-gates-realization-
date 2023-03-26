@@ -63,6 +63,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by:SUCHARITHA CHOWDARY 
 RegisterNumber: 212221240021
 ~~~
+~~~
 module expone(a,b,y1,y2,y3,y4,y5,y6,y7);
 input  a,b;
 output y1,y2,y3,y4,y5,y6,y7:
